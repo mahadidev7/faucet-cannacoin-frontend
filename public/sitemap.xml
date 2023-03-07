@@ -1,0 +1,22 @@
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;urlset
+      xmlns=&quot;http://www.sitemaps.org/schemas/sitemap/0.9&quot;
+      xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+      xsi:schemaLocation=&quot;http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd&quot;&gt;
+&lt;!-- created with Free Online Sitemap Generator www.xml-sitemaps.com --&gt;
+
+
+&lt;url&gt;
+  &lt;loc&gt;https://cannacoin.org/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-06-09T10:26:43+00:00&lt;/lastmod&gt;
+  &lt;priority&gt;1.00&lt;/priority&gt;
+&lt;/url&gt;
+&lt;url&gt;
+  &lt;loc&gt;https://cannacoin.org/index.html&lt;/loc&gt;
+  &lt;lastmod&gt;2022-06-09T10:26:43+00:00&lt;/lastmod&gt;
+  &lt;priority&gt;0.80&lt;/priority&gt;
+&lt;/url&gt;
+
+
+&lt;/urlset&gt;
